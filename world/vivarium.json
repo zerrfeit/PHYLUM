@@ -2,68 +2,68 @@
   "checkpoint_days": 14,
   "cortex": {
     "canonical_llm_enabled": false,
-    "compressed_cohorts": 75,
+    "compressed_cohorts": 76,
     "last_actions": {
-      "avoid": 26,
-      "explore": 51,
-      "forage": 26,
-      "mate": 43,
-      "rest": 29,
-      "socialize": 27
+      "avoid": 16,
+      "explore": 63,
+      "forage": 20,
+      "mate": 45,
+      "rest": 22,
+      "socialize": 41
     },
-    "lifetime_decisions": 71470,
-    "mean_controller_gate": 0.13702,
-    "mean_hidden_neurons": 4.015,
-    "mean_plasticity": 0.22416,
-    "resolved_brains": 202,
+    "lifetime_decisions": 73576,
+    "mean_controller_gate": 0.13672,
+    "mean_hidden_neurons": 4.014,
+    "mean_plasticity": 0.22382,
+    "resolved_brains": 207,
     "schema": 1
   },
   "engine": "VIVARIUM",
   "epoch_origin_observation": 21,
   "isolation": {},
   "last_checkpoint": {
-    "births": 14.6,
+    "births": 13.086,
     "death_causes": {
-      "age": 13.998
+      "age": 8.781
     },
-    "deaths": 13.998,
+    "deaths": 8.781,
     "extreme_weather_days": 0,
-    "observation_index": 116,
+    "observation_index": 117,
     "observed_predation": 0,
-    "population_after": 785.04,
-    "population_before": 784.438,
-    "sim_day_end": 1330.0,
-    "sim_day_start": 1316.0,
+    "population_after": 789.346,
+    "population_before": 785.04,
+    "sim_day_end": 1344.0,
+    "sim_day_start": 1330.0,
     "simulated_days": 14
   },
   "legacy_observations": 21,
-  "next_cohort_id": 850,
-  "next_organism_id": 704,
-  "observation_index": 116,
+  "next_cohort_id": 859,
+  "next_organism_id": 710,
+  "observation_index": 117,
   "schema": 1,
-  "sim_day": 1330.0,
+  "sim_day": 1344.0,
   "statistics": {
-    "cohorts": 75,
+    "cohorts": 76,
     "cortex": {
       "canonical_llm_enabled": false,
-      "compressed_cohorts": 75,
+      "compressed_cohorts": 76,
       "last_actions": {
-        "avoid": 26,
-        "explore": 51,
-        "forage": 26,
-        "mate": 43,
-        "rest": 29,
-        "socialize": 27
+        "avoid": 16,
+        "explore": 63,
+        "forage": 20,
+        "mate": 45,
+        "rest": 22,
+        "socialize": 41
       },
-      "lifetime_decisions": 71470,
-      "mean_controller_gate": 0.13702,
-      "mean_hidden_neurons": 4.015,
-      "mean_plasticity": 0.22416,
-      "resolved_brains": 202,
+      "lifetime_decisions": 73576,
+      "mean_controller_gate": 0.13672,
+      "mean_hidden_neurons": 4.014,
+      "mean_plasticity": 0.22382,
+      "resolved_brains": 207,
       "schema": 1
     },
-    "explicit_organisms": 202,
-    "sim_year": 3.69444
+    "explicit_organisms": 207,
+    "sim_year": 3.73333
   },
   "year_days": 360
 }
