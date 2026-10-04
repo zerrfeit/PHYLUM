@@ -214,3 +214,4 @@
 {"generation": 220, "host": "world", "kind": "disease", "sim_day": 2786.0, "subject": "pa-00005", "text": "glass spore emerges in world."}
 {"generation": 221, "kind": "observation", "subject": "world", "text": "VIVARIUM advances 14 simulated days to year 7.78."}
 {"generation": 222, "kind": "observation", "subject": "world", "text": "VIVARIUM advances 14 simulated days to year 7.82."}
+{"generation": 223, "kind": "observation", "subject": "world", "text": "VIVARIUM advances 14 simulated days to year 7.86."}
