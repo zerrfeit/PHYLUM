@@ -33,7 +33,7 @@
       "social_sensitivity": 0.26358,
       "threat_sensitivity": 0.18068
     },
-    "population": 469.45,
+    "population": 475.01,
     "repertoire": [
       {
         "kind": "inherited",
@@ -104,7 +104,7 @@
           26.261,
           23.696
         ],
-        "strength": 0.0495
+        "strength": 0.0415
       }
     ],
     "name": "silt frond",
@@ -119,7 +119,7 @@
       "social_sensitivity": 0.32858,
       "threat_sensitivity": 0.18058
     },
-    "population": 205.4,
+    "population": 203.2,
     "repertoire": [
       {
         "kind": "inherited",
@@ -189,7 +189,7 @@
           39.083,
           12.208
         ],
-        "strength": 0.2453
+        "strength": 0.205
       }
     ],
     "name": "glass mote",
@@ -203,7 +203,7 @@
       "social_sensitivity": 0.38263,
       "threat_sensitivity": 0.16303
     },
-    "population": 271.52,
+    "population": 273.22,
     "repertoire": [
       {
         "kind": "inherited",
