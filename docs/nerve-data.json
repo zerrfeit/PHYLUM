@@ -30,7 +30,7 @@
           18.727,
           8.667
         ],
-        "strength": 0.2173
+        "strength": 0.1771
       }
     ],
     "name": "pale filament",
@@ -44,7 +44,7 @@
       "social_sensitivity": 0.26358,
       "threat_sensitivity": 0.18068
     },
-    "population": 497.31,
+    "population": 500.07,
     "repertoire": [
       {
         "kind": "inherited",
@@ -115,7 +115,7 @@
           26.261,
           23.696
         ],
-        "strength": 0.1489
+        "strength": 0.1247
       }
     ],
     "name": "silt frond",
@@ -130,7 +130,7 @@
       "social_sensitivity": 0.32858,
       "threat_sensitivity": 0.18058
     },
-    "population": 196.39,
+    "population": 195.06,
     "repertoire": [
       {
         "kind": "inherited",
@@ -200,7 +200,7 @@
           39.083,
           12.208
         ],
-        "strength": 0.0489
+        "strength": 0.0409
       }
     ],
     "name": "glass mote",
@@ -214,7 +214,7 @@
       "social_sensitivity": 0.38263,
       "threat_sensitivity": 0.16303
     },
-    "population": 280.0,
+    "population": 287.12,
     "repertoire": [
       {
         "kind": "inherited",
