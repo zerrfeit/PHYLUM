@@ -1,10 +1,10 @@
 {
   "cultural_lineages": [],
-  "generation": 251,
+  "generation": 252,
   "lineages": [
     {
       "capacities": {
-        "construction": 0.1044,
+        "construction": 0.10439,
         "cultural_storage": 0.23135,
         "innovation": 0.16404,
         "language": 0.21112,
@@ -18,7 +18,7 @@
       },
       "id": "sp-00001",
       "name": "pale filament",
-      "population": 578.47,
+      "population": 584.65,
       "practices": [],
       "statistics": {
         "innovations": 0,
@@ -29,11 +29,11 @@
     },
     {
       "capacities": {
-        "construction": 0.14822,
+        "construction": 0.14823,
         "cultural_storage": 0.31343,
         "innovation": 0.21693,
         "language": 0.28707,
-        "material_skill": 0.1471,
+        "material_skill": 0.14711,
         "transmission": 0.13561
       },
       "dialect": {
@@ -43,7 +43,7 @@
       },
       "id": "sp-00002",
       "name": "silt frond",
-      "population": 176.09,
+      "population": 172.87,
       "practices": [],
       "statistics": {
         "innovations": 0,
