@@ -3,27 +3,27 @@
   "clocks": {
     "climate": 0.805,
     "ecology": 253,
-    "ecology_days": 3500.0,
+    "ecology_days": 3514.0,
     "evolution": 4.14,
-    "evolution_years": 9.72222,
+    "evolution_years": 9.76111,
     "geology": 0.138
   },
   "cortex": {
     "canonical_llm_enabled": false,
     "compressed_cohorts": 79,
     "last_actions": {
-      "avoid": 20,
-      "explore": 45,
-      "forage": 19,
-      "mate": 63,
-      "rest": 23,
-      "socialize": 37
+      "avoid": 18,
+      "explore": 65,
+      "forage": 20,
+      "mate": 44,
+      "rest": 13,
+      "socialize": 44
     },
-    "lifetime_decisions": 73764,
-    "mean_controller_gate": 0.13085,
-    "mean_hidden_neurons": 3.986,
-    "mean_plasticity": 0.21771,
-    "resolved_brains": 207,
+    "lifetime_decisions": 72351,
+    "mean_controller_gate": 0.13055,
+    "mean_hidden_neurons": 3.985,
+    "mean_plasticity": 0.21736,
+    "resolved_brains": 204,
     "schema": 1
   },
   "created_utc": "2026-08-08T22:26:00+00:00",
@@ -35,8 +35,8 @@
     "started_generation": 0
   },
   "extinct_species": 0,
-  "generation": 271,
-  "last_evolved_utc": "2026-10-19T04:35:44+00:00",
+  "generation": 272,
+  "last_evolved_utc": "2026-10-19T13:06:50+00:00",
   "living_species": 3,
   "name": "PHYLUM",
   "next_pathogen_id": 6,
@@ -62,7 +62,7 @@
   "statistics": {
     "active_pathogens": 5,
     "competition_links": 0,
-    "largest_population_ever": 627.13,
+    "largest_population_ever": 628.85,
     "largest_range_ever": 37,
     "most_descendants": "pale filament",
     "oldest_living_lineage": "pale filament",
@@ -86,29 +86,29 @@
       "ruins": 0
     }
   },
-  "total_population": 1064.46,
+  "total_population": 1063.0,
   "vivarium": {
     "checkpoint_days": 14,
     "cohorts": 79,
-    "explicit_organisms": 207,
+    "explicit_organisms": 204,
     "last_checkpoint": {
-      "births": 17.961,
+      "births": 16.394,
       "death_causes": {
-        "age": 16.699
+        "age": 17.852
       },
-      "deaths": 16.699,
+      "deaths": 17.852,
       "extreme_weather_days": 0,
-      "observation_index": 271,
+      "observation_index": 272,
       "observed_predation": 0,
-      "population_after": 1064.458,
-      "population_before": 1063.197,
-      "sim_day_end": 3500.0,
-      "sim_day_start": 3486.0,
+      "population_after": 1063.0,
+      "population_before": 1064.458,
+      "sim_day_end": 3514.0,
+      "sim_day_start": 3500.0,
       "simulated_days": 14
     },
-    "observation_index": 271,
+    "observation_index": 272,
     "schema": 1,
-    "sim_day": 3500.0,
-    "sim_year": 9.7222
+    "sim_day": 3514.0,
+    "sim_year": 9.7611
   }
 }
