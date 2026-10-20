@@ -265,3 +265,4 @@
 {"generation": 271, "kind": "observation", "subject": "world", "text": "VIVARIUM advances 14 simulated days to year 9.72."}
 {"generation": 272, "kind": "observation", "subject": "world", "text": "VIVARIUM advances 14 simulated days to year 9.76."}
 {"generation": 273, "kind": "observation", "subject": "world", "text": "VIVARIUM advances 14 simulated days to year 9.80."}
+{"generation": 274, "host": "world", "kind": "disease", "sim_day": 3542.0, "subject": "pa-00006", "text": "cold spore emerges in world."}

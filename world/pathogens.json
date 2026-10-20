@@ -82,5 +82,22 @@
     ],
     "transmissibility": 0.17041,
     "virulence": 0.12357
+  },
+  {
+    "born_generation": 274,
+    "born_sim_day": 3531.0,
+    "environmental_persistence": 0.14604,
+    "extinct_generation": null,
+    "host_breadth": 0.24246,
+    "hosts": {},
+    "id": "pa-00006",
+    "mutation_rate": 0.02484,
+    "name": "cold spore",
+    "peak_prevalence": 0.004,
+    "reservoirs": [
+      "sp-00002"
+    ],
+    "transmissibility": 0.17189,
+    "virulence": 0.09926
   }
 ]
