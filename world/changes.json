@@ -2,15 +2,13 @@
   "ended_interactions": [],
   "events": [
     {
-      "generation": 274,
-      "host": "world",
-      "kind": "disease",
-      "sim_day": 3542.0,
-      "subject": "pa-00006",
-      "text": "cold spore emerges in world."
+      "generation": 275,
+      "kind": "observation",
+      "subject": "world",
+      "text": "VIVARIUM advances 14 simulated days to year 9.88."
     }
   ],
-  "from_generation": 273,
+  "from_generation": 274,
   "lineages": [
     {
       "centroid_from": [
@@ -21,17 +19,17 @@
         18.656,
         8.75
       ],
-      "genetic_diversity_after": 0.04195,
-      "genetic_diversity_before": 0.04223,
+      "genetic_diversity_after": 0.04226,
+      "genetic_diversity_before": 0.04195,
       "id": "sp-00001",
       "infection_peak_after": 0,
       "infection_peak_before": 0,
       "movement": 0.0,
       "name": "pale filament",
-      "population_after": 624.37,
-      "population_before": 626.66,
-      "population_delta": -2.3,
-      "population_percent": -0.37,
+      "population_after": 630.28,
+      "population_before": 624.37,
+      "population_delta": 5.92,
+      "population_percent": 0.95,
       "range_after": 32,
       "range_before": 32,
       "range_delta": 0,
@@ -47,17 +45,17 @@
         26.333,
         23.476
       ],
-      "genetic_diversity_after": 0.08245,
-      "genetic_diversity_before": 0.08204,
+      "genetic_diversity_after": 0.0825,
+      "genetic_diversity_before": 0.08245,
       "id": "sp-00002",
       "infection_peak_after": 0,
       "infection_peak_before": 0,
       "movement": 0.0,
       "name": "silt frond",
-      "population_after": 149.38,
-      "population_before": 149.53,
-      "population_delta": -0.14,
-      "population_percent": -0.09,
+      "population_after": 148.24,
+      "population_before": 149.38,
+      "population_delta": -1.15,
+      "population_percent": -0.77,
       "range_after": 21,
       "range_before": 21,
       "range_delta": 0,
@@ -73,17 +71,17 @@
         38.464,
         12.143
       ],
-      "genetic_diversity_after": 0.07274,
-      "genetic_diversity_before": 0.07241,
+      "genetic_diversity_after": 0.0729,
+      "genetic_diversity_before": 0.07274,
       "id": "sp-00003",
       "infection_peak_after": 0,
       "infection_peak_before": 0,
       "movement": 0.0,
       "name": "glass mote",
-      "population_after": 281.71,
-      "population_before": 281.65,
-      "population_delta": 0.07,
-      "population_percent": 0.02,
+      "population_after": 280.72,
+      "population_before": 281.71,
+      "population_delta": -0.99,
+      "population_percent": -0.35,
       "range_after": 28,
       "range_before": 28,
       "range_delta": 0,
@@ -93,18 +91,16 @@
   ],
   "markers": [
     {
-      "glyph": "\u2723",
-      "id": "ev-000274-00",
-      "kind": "disease",
+      "glyph": "\u2022",
+      "id": "ev-000275-00",
+      "kind": "observation",
       "position": null,
-      "subject": "pa-00006",
-      "text": "cold spore emerges in world."
+      "subject": "world",
+      "text": "VIVARIUM advances 14 simulated days to year 9.88."
     }
   ],
   "new_interactions": [],
-  "new_pathogens": [
-    "pa-00006"
-  ],
+  "new_pathogens": [],
   "resolved_pathogens": [],
   "schema_version": 1,
   "summary": {
@@ -115,18 +111,18 @@
     "living_delta": 0,
     "moisture_delta": 0.0,
     "new_competition_links": 0,
-    "new_pathogens": 1,
+    "new_pathogens": 0,
     "new_predation_links": 0,
     "occupied_after": 81,
     "occupied_before": 81,
     "occupied_delta": 0,
-    "population_after": 1055.46,
-    "population_before": 1057.84,
-    "population_delta": -2.38,
-    "population_percent": -0.22,
+    "population_after": 1059.24,
+    "population_before": 1055.46,
+    "population_delta": 3.78,
+    "population_percent": 0.36,
     "resolved_pathogens": 0,
     "resources_delta": 0.0,
     "temperature_delta": 0.0
   },
-  "to_generation": 274
+  "to_generation": 275
 }
