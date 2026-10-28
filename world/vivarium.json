@@ -4,17 +4,17 @@
     "canonical_llm_enabled": false,
     "compressed_cohorts": 79,
     "last_actions": {
-      "avoid": 25,
-      "explore": 43,
+      "avoid": 18,
+      "explore": 52,
       "forage": 22,
-      "mate": 47,
-      "rest": 17,
-      "socialize": 57
+      "mate": 54,
+      "rest": 19,
+      "socialize": 46
     },
-    "lifetime_decisions": 64898,
+    "lifetime_decisions": 65740,
     "mean_controller_gate": 0.13054,
     "mean_hidden_neurons": 4.0,
-    "mean_plasticity": 0.2175,
+    "mean_plasticity": 0.21749,
     "resolved_brains": 211,
     "schema": 1
   },
@@ -22,48 +22,48 @@
   "epoch_origin_observation": 21,
   "isolation": {},
   "last_checkpoint": {
-    "births": 24.897,
+    "births": 23.665,
     "death_causes": {
-      "age": 19.204
+      "age": 16.373
     },
-    "deaths": 19.204,
+    "deaths": 16.373,
     "extreme_weather_days": 0,
-    "observation_index": 306,
+    "observation_index": 307,
     "observed_predation": 0,
-    "population_after": 1167.974,
-    "population_before": 1162.281,
-    "sim_day_end": 3990.0,
-    "sim_day_start": 3976.0,
+    "population_after": 1175.266,
+    "population_before": 1167.974,
+    "sim_day_end": 4004.0,
+    "sim_day_start": 3990.0,
     "simulated_days": 14
   },
   "legacy_observations": 21,
-  "next_cohort_id": 2684,
-  "next_organism_id": 1787,
-  "observation_index": 306,
+  "next_cohort_id": 2693,
+  "next_organism_id": 1795,
+  "observation_index": 307,
   "schema": 1,
-  "sim_day": 3990.0,
+  "sim_day": 4004.0,
   "statistics": {
     "cohorts": 79,
     "cortex": {
       "canonical_llm_enabled": false,
       "compressed_cohorts": 79,
       "last_actions": {
-        "avoid": 25,
-        "explore": 43,
+        "avoid": 18,
+        "explore": 52,
         "forage": 22,
-        "mate": 47,
-        "rest": 17,
-        "socialize": 57
+        "mate": 54,
+        "rest": 19,
+        "socialize": 46
       },
-      "lifetime_decisions": 64898,
+      "lifetime_decisions": 65740,
       "mean_controller_gate": 0.13054,
       "mean_hidden_neurons": 4.0,
-      "mean_plasticity": 0.2175,
+      "mean_plasticity": 0.21749,
       "resolved_brains": 211,
       "schema": 1
     },
     "explicit_organisms": 211,
-    "sim_year": 11.08333
+    "sim_year": 11.12222
   },
   "year_days": 360
 }
