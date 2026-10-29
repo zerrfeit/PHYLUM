@@ -1424,3 +1424,9 @@
 {"organism_id": "o-000001787", "parent_ids": ["o-000001717", "o-000001720"], "sim_day": 3991.0, "species_id": "sp-00001"}
 {"organism_id": "o-000001789", "parent_ids": ["o-000001583", "o-000001592"], "sim_day": 3994.0, "species_id": "sp-00003"}
 {"organism_id": "o-000001790", "parent_ids": ["o-000001627", "o-000001593"], "sim_day": 3995.0, "species_id": "sp-00002"}
+{"organism_id": "o-000001795", "parent_ids": ["o-000001728", "o-000001657"], "sim_day": 4008.0, "species_id": "sp-00001"}
+{"organism_id": "o-000001797", "parent_ids": ["o-000001677", "o-000001700"], "sim_day": 4014.0, "species_id": "sp-00001"}
+{"organism_id": "o-000001799", "parent_ids": ["o-000001684", "o-000001642"], "sim_day": 4016.0, "species_id": "sp-00003"}
+{"organism_id": "o-000001800", "parent_ids": ["o-000001649", "o-000001680"], "sim_day": 4017.0, "species_id": "sp-00002"}
+{"organism_id": "o-000001801", "parent_ids": ["o-000001685", "o-000001712"], "sim_day": 4018.0, "species_id": "sp-00001"}
+{"organism_id": "o-000001802", "parent_ids": ["o-000001692", "o-000001590"], "sim_day": 4018.0, "species_id": "sp-00003"}
