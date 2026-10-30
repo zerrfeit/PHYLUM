@@ -34,10 +34,10 @@
     "innovations": [],
     "life_cycle": {
       "cohorts": {
-        "adult": 474.821,
-        "elder": 31.71,
-        "juvenile": 157.405,
-        "propagule": 80.187
+        "adult": 477.55,
+        "elder": 31.972,
+        "juvenile": 158.387,
+        "propagule": 80.716
       },
       "development": "direct",
       "lifespan_generations": 3.853,
@@ -64,7 +64,7 @@
       "respiration": "air-exchange",
       "thermoregulation": "ectothermic"
     },
-    "population": 744.12,
+    "population": 748.62,
     "reproduction": {
       "courtship": "chemical",
       "fertilization": "propagule-exchange",
@@ -86,15 +86,15 @@
     "symbioses": [],
     "variation": {
       "body_size": {
-        "mean": 0.58494,
+        "mean": 0.58505,
         "sd": 0.01725
       },
       "defense": {
-        "mean": 0.29473,
+        "mean": 0.29477,
         "sd": 0.02948
       },
       "fecundity": {
-        "mean": 0.42398,
+        "mean": 0.42401,
         "sd": 0.02948
       },
       "sensory": {
@@ -102,7 +102,7 @@
         "sd": 0.02948
       },
       "speed": {
-        "mean": 0.39211,
+        "mean": 0.39206,
         "sd": 0.02948
       }
     }
@@ -142,10 +142,10 @@
     "innovations": [],
     "life_cycle": {
       "cohorts": {
-        "adult": 93.416,
-        "elder": 9.789,
-        "juvenile": 31.996,
-        "propagule": 14.369
+        "adult": 93.608,
+        "elder": 9.699,
+        "juvenile": 31.74,
+        "propagule": 13.339
       },
       "development": "spore-cycle",
       "lifespan_generations": 6.718,
@@ -172,7 +172,7 @@
       "respiration": "air-exchange",
       "thermoregulation": "ectothermic"
     },
-    "population": 149.57,
+    "population": 148.39,
     "reproduction": {
       "courtship": "chemical",
       "fertilization": "propagule-exchange",
@@ -194,24 +194,24 @@
     "symbioses": [],
     "variation": {
       "body_size": {
-        "mean": 0.85882,
+        "mean": 0.85862,
         "sd": 0.02956
       },
       "defense": {
-        "mean": 0.1372,
-        "sd": 0.03442
+        "mean": 0.13716,
+        "sd": 0.03443
       },
       "fecundity": {
-        "mean": 0.36065,
-        "sd": 0.03442
+        "mean": 0.36066,
+        "sd": 0.03443
       },
       "sensory": {
-        "mean": 0.41846,
-        "sd": 0.03442
+        "mean": 0.41861,
+        "sd": 0.03443
       },
       "speed": {
-        "mean": 0.24498,
-        "sd": 0.03442
+        "mean": 0.24493,
+        "sd": 0.03443
       }
     }
   },
@@ -250,10 +250,10 @@
     "innovations": [],
     "life_cycle": {
       "cohorts": {
-        "adult": 189.35,
-        "elder": 17.879,
-        "juvenile": 65.018,
-        "propagule": 30.985
+        "adult": 190.942,
+        "elder": 18.144,
+        "juvenile": 66.005,
+        "propagule": 32.756
       },
       "development": "direct",
       "lifespan_generations": 6.207,
@@ -280,7 +280,7 @@
       "respiration": "air-exchange",
       "thermoregulation": "ectothermic"
     },
-    "population": 303.23,
+    "population": 307.85,
     "reproduction": {
       "courtship": "chemical",
       "fertilization": "propagule-exchange",
@@ -302,24 +302,24 @@
     "symbioses": [],
     "variation": {
       "body_size": {
-        "mean": 0.44095,
-        "sd": 0.0146
+        "mean": 0.44057,
+        "sd": 0.01461
       },
       "defense": {
-        "mean": 0.21433,
-        "sd": 0.03311
+        "mean": 0.21442,
+        "sd": 0.03317
       },
       "fecundity": {
-        "mean": 0.48546,
-        "sd": 0.03311
+        "mean": 0.48537,
+        "sd": 0.03317
       },
       "sensory": {
-        "mean": 0.22923,
-        "sd": 0.03311
+        "mean": 0.22919,
+        "sd": 0.03317
       },
       "speed": {
-        "mean": 0.44354,
-        "sd": 0.03311
+        "mean": 0.44351,
+        "sd": 0.03317
       }
     }
   }
