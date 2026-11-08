@@ -2192,7 +2192,7 @@
       "land": true,
       "moisture": 0.63887,
       "nutrients": 0.44888,
-      "producer_biomass": 50.33472,
+      "producer_biomass": 50.33071,
       "productivity": 0.27853,
       "temperature": 0.41345,
       "water": 0.63887
@@ -2518,7 +2518,7 @@
       "land": true,
       "moisture": 0.65857,
       "nutrients": 0.44715,
-      "producer_biomass": 51.50486,
+      "producer_biomass": 51.5017,
       "productivity": 0.28441,
       "temperature": 0.40095,
       "water": 0.65857
@@ -2555,7 +2555,7 @@
       "land": true,
       "moisture": 0.629,
       "nutrients": 0.2556,
-      "producer_biomass": 49.10052,
+      "producer_biomass": 49.11408,
       "productivity": 0.27339,
       "temperature": 0.412,
       "water": 0.629
@@ -2568,7 +2568,7 @@
       "land": true,
       "moisture": 0.61684,
       "nutrients": 0.45177,
-      "producer_biomass": 49.92372,
+      "producer_biomass": 49.92271,
       "productivity": 0.27514,
       "temperature": 0.42369,
       "water": 0.61684
@@ -2881,7 +2881,7 @@
       "land": true,
       "moisture": 0.67376,
       "nutrients": 0.44508,
-      "producer_biomass": 50.85438,
+      "producer_biomass": 50.85354,
       "productivity": 0.28025,
       "temperature": 0.3764,
       "water": 0.67376
@@ -2912,13 +2912,13 @@
     },
     "16,10": {
       "capacity": 49.1691,
-      "detritus": 9e-05,
+      "detritus": 0.0001,
       "elevation": 0.62522,
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.61878,
       "nutrients": 0.3983,
-      "producer_biomass": 48.12695,
+      "producer_biomass": 48.12765,
       "productivity": 0.25974,
       "temperature": 0.39224,
       "water": 0.61878
@@ -3244,7 +3244,7 @@
       "land": true,
       "moisture": 0.64147,
       "nutrients": 0.29709,
-      "producer_biomass": 46.73318,
+      "producer_biomass": 46.74595,
       "productivity": 0.25106,
       "temperature": 0.35151,
       "water": 0.64147
@@ -3281,7 +3281,7 @@
       "land": true,
       "moisture": 0.60307,
       "nutrients": 0.27298,
-      "producer_biomass": 45.19919,
+      "producer_biomass": 45.2143,
       "productivity": 0.24191,
       "temperature": 0.36498,
       "water": 0.60307
@@ -3294,7 +3294,7 @@
       "land": true,
       "moisture": 0.59963,
       "nutrients": 0.29905,
-      "producer_biomass": 46.93179,
+      "producer_biomass": 46.94265,
       "productivity": 0.25133,
       "temperature": 0.38637,
       "water": 0.59963
@@ -3307,7 +3307,7 @@
       "land": true,
       "moisture": 0.59914,
       "nutrients": 0.44997,
-      "producer_biomass": 48.58378,
+      "producer_biomass": 48.58332,
       "productivity": 0.26175,
       "temperature": 0.40917,
       "water": 0.59914
@@ -3608,8 +3608,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.64515,
-      "nutrients": 0.222,
-      "producer_biomass": 44.34332,
+      "nutrients": 0.22186,
+      "producer_biomass": 44.37036,
       "productivity": 0.24146,
       "temperature": 0.32593,
       "water": 0.64515
@@ -3640,13 +3640,13 @@
     },
     "18,10": {
       "capacity": 44.5138,
-      "detritus": 4e-05,
+      "detritus": 3e-05,
       "elevation": 0.72929,
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.58893,
       "nutrients": 0.33029,
-      "producer_biomass": 42.69698,
+      "producer_biomass": 42.71638,
       "productivity": 0.22095,
       "temperature": 0.32622,
       "water": 0.58893
@@ -3659,7 +3659,7 @@
       "land": true,
       "moisture": 0.59163,
       "nutrients": 0.43645,
-      "producer_biomass": 46.17017,
+      "producer_biomass": 46.17024,
       "productivity": 0.24283,
       "temperature": 0.37296,
       "water": 0.59163
@@ -3672,7 +3672,7 @@
       "land": true,
       "moisture": 0.59472,
       "nutrients": 0.45125,
-      "producer_biomass": 48.58157,
+      "producer_biomass": 48.58044,
       "productivity": 0.26194,
       "temperature": 0.40678,
       "water": 0.59472
@@ -3949,7 +3949,7 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.61847,
-      "nutrients": 0.10325,
+      "nutrients": 0.10199,
       "producer_biomass": 0.0,
       "productivity": 0.19217,
       "temperature": 0.25684,
@@ -3975,8 +3975,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.62466,
-      "nutrients": 0.1941,
-      "producer_biomass": 39.22728,
+      "nutrients": 0.19396,
+      "producer_biomass": 39.27077,
       "productivity": 0.21322,
       "temperature": 0.28899,
       "water": 0.62466
@@ -4012,8 +4012,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.56907,
-      "nutrients": 0.32812,
-      "producer_biomass": 39.57997,
+      "nutrients": 0.32798,
+      "producer_biomass": 39.61119,
       "productivity": 0.20283,
       "temperature": 0.29938,
       "water": 0.56907
@@ -4302,7 +4302,7 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.58843,
-      "nutrients": 0.0805,
+      "nutrients": 0.0791,
       "producer_biomass": 0.0,
       "productivity": 0.20702,
       "temperature": 0.32618,
@@ -4315,7 +4315,7 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.572,
-      "nutrients": 0.08047,
+      "nutrients": 0.07935,
       "producer_biomass": 0.0,
       "productivity": 0.17662,
       "temperature": 0.25537,
@@ -4328,8 +4328,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.57155,
-      "nutrients": 0.09574,
-      "producer_biomass": 1.53573,
+      "nutrients": 0.09469,
+      "producer_biomass": 1.88583,
       "productivity": 0.17478,
       "temperature": 0.24309,
       "water": 0.57155
@@ -5027,7 +5027,7 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.58043,
-      "nutrients": 0.07349,
+      "nutrients": 0.0722,
       "producer_biomass": 0.0,
       "productivity": 0.19918,
       "temperature": 0.31958,
@@ -5040,7 +5040,7 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.55696,
-      "nutrients": 0.11099,
+      "nutrients": 0.10986,
       "producer_biomass": 0.0,
       "productivity": 0.17372,
       "temperature": 0.26629,
@@ -5053,8 +5053,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.55468,
-      "nutrients": 0.10704,
-      "producer_biomass": 0.63844,
+      "nutrients": 0.10592,
+      "producer_biomass": 0.03987,
       "productivity": 0.1686,
       "temperature": 0.24646,
       "water": 0.55468
@@ -5405,8 +5405,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.55138,
-      "nutrients": 0.16162,
-      "producer_biomass": 33.36876,
+      "nutrients": 0.16134,
+      "producer_biomass": 33.44742,
       "productivity": 0.1927,
       "temperature": 0.32477,
       "water": 0.55138
@@ -5418,8 +5418,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.54397,
-      "nutrients": 0.24939,
-      "producer_biomass": 34.76572,
+      "nutrients": 0.24925,
+      "producer_biomass": 34.79893,
       "productivity": 0.16984,
       "temperature": 0.25897,
       "water": 0.54397
@@ -5431,8 +5431,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.54729,
-      "nutrients": 0.26304,
-      "producer_biomass": 36.39466,
+      "nutrients": 0.2629,
+      "producer_biomass": 36.42554,
       "productivity": 0.17935,
       "temperature": 0.27739,
       "water": 0.54729
@@ -5756,8 +5756,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.56591,
-      "nutrients": 0.31358,
-      "producer_biomass": 35.56882,
+      "nutrients": 0.31344,
+      "producer_biomass": 35.63327,
       "productivity": 0.19184,
       "temperature": 0.31282,
       "water": 0.56591
@@ -5770,20 +5770,20 @@
       "land": true,
       "moisture": 0.54907,
       "nutrients": 0.27665,
-      "producer_biomass": 38.76074,
+      "producer_biomass": 38.7825,
       "productivity": 0.19049,
       "temperature": 0.32021,
       "water": 0.54907
     },
     "22,8": {
       "capacity": 41.7301,
-      "detritus": 5e-05,
+      "detritus": 6e-05,
       "elevation": 0.60478,
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.54438,
       "nutrients": 0.28305,
-      "producer_biomass": 39.53936,
+      "producer_biomass": 39.5564,
       "productivity": 0.19775,
       "temperature": 0.3344,
       "water": 0.54438
@@ -6135,7 +6135,7 @@
       "land": true,
       "moisture": 0.54576,
       "nutrients": 0.4036,
-      "producer_biomass": 40.39706,
+      "producer_biomass": 40.40263,
       "productivity": 0.19581,
       "temperature": 0.33899,
       "water": 0.54576
@@ -6148,7 +6148,7 @@
       "land": true,
       "moisture": 0.5468,
       "nutrients": 0.3277,
-      "producer_biomass": 41.93067,
+      "producer_biomass": 41.94093,
       "productivity": 0.21315,
       "temperature": 0.37582,
       "water": 0.5468
@@ -6161,7 +6161,7 @@
       "land": true,
       "moisture": 0.54928,
       "nutrients": 0.43055,
-      "producer_biomass": 43.28733,
+      "producer_biomass": 43.28466,
       "productivity": 0.21663,
       "temperature": 0.37694,
       "water": 0.54928
@@ -6354,7 +6354,7 @@
       "land": true,
       "moisture": 0.52576,
       "nutrients": 0.43831,
-      "producer_biomass": 30.33684,
+      "producer_biomass": 30.35342,
       "productivity": 0.11809,
       "temperature": 0.12873,
       "water": 0.52576
@@ -6366,8 +6366,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.54874,
-      "nutrients": 0.30382,
-      "producer_biomass": 7.94933,
+      "nutrients": 0.30326,
+      "producer_biomass": 8.12829,
       "productivity": 0.11059,
       "temperature": 0.10247,
       "water": 0.54874
@@ -6379,8 +6379,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.60281,
-      "nutrients": 0.23382,
-      "producer_biomass": 10.0633,
+      "nutrients": 0.23326,
+      "producer_biomass": 10.24927,
       "productivity": 0.12998,
       "temperature": 0.11538,
       "water": 0.60281
@@ -6392,8 +6392,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.62759,
-      "nutrients": 0.1861,
-      "producer_biomass": 5.71251,
+      "nutrients": 0.18537,
+      "producer_biomass": 5.96144,
       "productivity": 0.14733,
       "temperature": 0.14218,
       "water": 0.62759
@@ -6729,8 +6729,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.58733,
-      "nutrients": 0.18785,
-      "producer_biomass": 17.25318,
+      "nutrients": 0.18756,
+      "producer_biomass": 17.3619,
       "productivity": 0.12119,
       "temperature": 0.10786,
       "water": 0.58733
@@ -6742,8 +6742,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.64028,
-      "nutrients": 0.19736,
-      "producer_biomass": 9.34678,
+      "nutrients": 0.19667,
+      "producer_biomass": 9.5595,
       "productivity": 0.14673,
       "temperature": 0.13145,
       "water": 0.64028
@@ -6755,8 +6755,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.6893,
-      "nutrients": 0.14855,
-      "producer_biomass": 23.83617,
+      "nutrients": 0.14813,
+      "producer_biomass": 23.97197,
       "productivity": 0.17606,
       "temperature": 0.16756,
       "water": 0.6893
@@ -7094,8 +7094,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.63204,
-      "nutrients": 0.15288,
-      "producer_biomass": 8.43225,
+      "nutrients": 0.1523,
+      "producer_biomass": 8.63149,
       "productivity": 0.13922,
       "temperature": 0.12037,
       "water": 0.63204
@@ -7107,8 +7107,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.67454,
-      "nutrients": 0.07555,
-      "producer_biomass": 0.94662,
+      "nutrients": 0.07466,
+      "producer_biomass": 1.24514,
       "productivity": 0.16979,
       "temperature": 0.1603,
       "water": 0.67454
@@ -7120,8 +7120,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.71702,
-      "nutrients": 0.08014,
-      "producer_biomass": 13.85322,
+      "nutrients": 0.07944,
+      "producer_biomass": 14.0847,
       "productivity": 0.19261,
       "temperature": 0.18518,
       "water": 0.71702
@@ -7435,7 +7435,7 @@
       "land": true,
       "moisture": 0.65746,
       "nutrients": 0.48305,
-      "producer_biomass": 43.50404,
+      "producer_biomass": 43.50634,
       "productivity": 0.21872,
       "temperature": 0.26325,
       "water": 0.65746
@@ -7447,7 +7447,7 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.68465,
-      "nutrients": 0.30965,
+      "nutrients": 0.30806,
       "producer_biomass": 0.0,
       "productivity": 0.21917,
       "temperature": 0.24847,
@@ -7473,8 +7473,8 @@
       "engineering_pressure": 0,
       "land": false,
       "moisture": 0.92043,
-      "nutrients": 0.19057,
-      "producer_biomass": 58.47717,
+      "nutrients": 0.19043,
+      "producer_biomass": 58.49579,
       "productivity": 0.35488,
       "temperature": 0.3097,
       "water": 0.92043
@@ -7487,7 +7487,7 @@
       "land": false,
       "moisture": 0.92687,
       "nutrients": 0.52231,
-      "producer_biomass": 55.36909,
+      "producer_biomass": 55.36922,
       "productivity": 0.31807,
       "temperature": 0.30092,
       "water": 0.92687
@@ -7500,7 +7500,7 @@
       "land": false,
       "moisture": 0.98145,
       "nutrients": 0.50758,
-      "producer_biomass": 53.71315,
+      "producer_biomass": 53.7111,
       "productivity": 0.30229,
       "temperature": 0.29668,
       "water": 0.98145
@@ -7812,8 +7812,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.73877,
-      "nutrients": 0.14973,
-      "producer_biomass": 22.81369,
+      "nutrients": 0.14889,
+      "producer_biomass": 20.81749,
       "productivity": 0.2454,
       "temperature": 0.25478,
       "water": 0.73877
@@ -7825,7 +7825,7 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.73354,
-      "nutrients": 0.11068,
+      "nutrients": 0.1091,
       "producer_biomass": 0.0,
       "productivity": 0.25692,
       "temperature": 0.28552,
@@ -7839,7 +7839,7 @@
       "land": false,
       "moisture": 0.93329,
       "nutrients": 0.49839,
-      "producer_biomass": 51.68411,
+      "producer_biomass": 51.68605,
       "productivity": 0.28929,
       "temperature": 0.31405,
       "water": 0.93329
@@ -8177,7 +8177,7 @@
       "land": true,
       "moisture": 0.76767,
       "nutrients": 0.43598,
-      "producer_biomass": 51.38516,
+      "producer_biomass": 51.38916,
       "productivity": 0.28404,
       "temperature": 0.3063,
       "water": 0.76767
@@ -8190,7 +8190,7 @@
       "land": false,
       "moisture": 0.96855,
       "nutrients": 0.02,
-      "producer_biomass": 41.78826,
+      "producer_biomass": 41.94075,
       "productivity": 0.31805,
       "temperature": 0.3423,
       "water": 0.96855
@@ -10220,8 +10220,8 @@
       "engineering_pressure": 0,
       "land": false,
       "moisture": 0.88866,
-      "nutrients": 0.53782,
-      "producer_biomass": 55.7378,
+      "nutrients": 0.53754,
+      "producer_biomass": 55.81348,
       "productivity": 0.34717,
       "temperature": 0.56818,
       "water": 0.88866
@@ -10919,8 +10919,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.63678,
-      "nutrients": 0.40225,
-      "producer_biomass": 5.0108,
+      "nutrients": 0.3995,
+      "producer_biomass": 3.90137,
       "productivity": 0.31434,
       "temperature": 0.48492,
       "water": 0.63678
@@ -10932,8 +10932,8 @@
       "engineering_pressure": 0,
       "land": false,
       "moisture": 0.91048,
-      "nutrients": 0.54198,
-      "producer_biomass": 51.44185,
+      "nutrients": 0.54156,
+      "producer_biomass": 51.59041,
       "productivity": 0.34136,
       "temperature": 0.53367,
       "water": 0.91048
@@ -11282,8 +11282,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.67612,
-      "nutrients": 0.47926,
-      "producer_biomass": 54.7107,
+      "nutrients": 0.47908,
+      "producer_biomass": 53.75001,
       "productivity": 0.3308,
       "temperature": 0.47566,
       "water": 0.67612
@@ -11309,7 +11309,7 @@
       "land": false,
       "moisture": 0.96217,
       "nutrients": 0.02,
-      "producer_biomass": 50.89309,
+      "producer_biomass": 51.03017,
       "productivity": 0.36293,
       "temperature": 0.54954,
       "water": 0.96217
@@ -11322,7 +11322,7 @@
       "land": false,
       "moisture": 0.98462,
       "nutrients": 0.56699,
-      "producer_biomass": 69.45068,
+      "producer_biomass": 69.45076,
       "productivity": 0.43314,
       "temperature": 0.57453,
       "water": 0.98462
@@ -11648,7 +11648,7 @@
       "land": true,
       "moisture": 0.69015,
       "nutrients": 0.02,
-      "producer_biomass": 22.64365,
+      "producer_biomass": 23.10395,
       "productivity": 0.34223,
       "temperature": 0.47597,
       "water": 0.69015
@@ -11674,7 +11674,7 @@
       "land": true,
       "moisture": 0.77374,
       "nutrients": 0.02,
-      "producer_biomass": 2.64132,
+      "producer_biomass": 3.59023,
       "productivity": 0.44364,
       "temperature": 0.54062,
       "water": 0.77374
@@ -11687,7 +11687,7 @@
       "land": false,
       "moisture": 1.0,
       "nutrients": 0.60097,
-      "producer_biomass": 76.48663,
+      "producer_biomass": 76.48491,
       "productivity": 0.49202,
       "temperature": 0.56673,
       "water": 1.0
@@ -12039,7 +12039,7 @@
       "land": true,
       "moisture": 0.80782,
       "nutrients": 0.02,
-      "producer_biomass": 1.03369,
+      "producer_biomass": 0.0227,
       "productivity": 0.45323,
       "temperature": 0.51987,
       "water": 0.80782
@@ -12725,7 +12725,7 @@
       "land": false,
       "moisture": 0.92149,
       "nutrients": 0.50967,
-      "producer_biomass": 56.50864,
+      "producer_biomass": 56.50734,
       "productivity": 0.32295,
       "temperature": 0.48967,
       "water": 0.92149
@@ -12738,7 +12738,7 @@
       "land": true,
       "moisture": 0.71459,
       "nutrients": 0.02,
-      "producer_biomass": 11.18731,
+      "producer_biomass": 10.82583,
       "productivity": 0.35896,
       "temperature": 0.47985,
       "water": 0.71459
@@ -12751,7 +12751,7 @@
       "land": true,
       "moisture": 0.74105,
       "nutrients": 0.02,
-      "producer_biomass": 23.88988,
+      "producer_biomass": 24.43233,
       "productivity": 0.39097,
       "temperature": 0.48763,
       "water": 0.74105
@@ -12764,7 +12764,7 @@
       "land": true,
       "moisture": 0.81059,
       "nutrients": 0.02,
-      "producer_biomass": 22.5101,
+      "producer_biomass": 23.19301,
       "productivity": 0.44975,
       "temperature": 0.51224,
       "water": 0.81059
@@ -13101,7 +13101,7 @@
       "land": false,
       "moisture": 0.96002,
       "nutrients": 0.55627,
-      "producer_biomass": 66.48416,
+      "producer_biomass": 66.4795,
       "productivity": 0.40518,
       "temperature": 0.50014,
       "water": 0.96002
@@ -13113,8 +13113,8 @@
       "engineering_pressure": 0,
       "land": true,
       "moisture": 0.76559,
-      "nutrients": 0.04222,
-      "producer_biomass": 47.1955,
+      "nutrients": 0.04138,
+      "producer_biomass": 47.46992,
       "productivity": 0.41119,
       "temperature": 0.49871,
       "water": 0.76559
@@ -13127,7 +13127,7 @@
       "land": false,
       "moisture": 0.99145,
       "nutrients": 0.62153,
-      "producer_biomass": 80.7986,
+      "producer_biomass": 80.79376,
       "productivity": 0.52428,
       "temperature": 0.54469,
       "water": 0.99145
@@ -13140,7 +13140,7 @@
       "land": false,
       "moisture": 0.99828,
       "nutrients": 0.58189,
-      "producer_biomass": 73.31946,
+      "producer_biomass": 73.31967,
       "productivity": 0.46295,
       "temperature": 0.56662,
       "water": 0.99828
@@ -13465,7 +13465,7 @@
       "land": false,
       "moisture": 0.96965,
       "nutrients": 0.17916,
-      "producer_biomass": 66.60165,
+      "producer_biomass": 66.61504,
       "productivity": 0.41295,
       "temperature": 0.49244,
       "water": 0.96965
@@ -13478,7 +13478,7 @@
       "land": true,
       "moisture": 0.74243,
       "nutrients": 0.23467,
-      "producer_biomass": 64.13652,
+      "producer_biomass": 64.14489,
       "productivity": 0.39253,
       "temperature": 0.50034,
       "water": 0.74243
@@ -13491,7 +13491,7 @@
       "land": false,
       "moisture": 0.98136,
       "nutrients": 0.59538,
-      "producer_biomass": 75.46098,
+      "producer_biomass": 75.4566,
       "productivity": 0.47886,
       "temperature": 0.54602,
       "water": 0.98136
@@ -17388,8 +17388,8 @@
   "last_recalibrated_checkpoint": 21,
   "schema": 1,
   "weather": {
-    "rain_anomaly": -0.06311,
+    "rain_anomaly": 0.02223,
     "storm": 0,
-    "temperature_anomaly": -0.05097
+    "temperature_anomaly": -0.03252
   }
 }
