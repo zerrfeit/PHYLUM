@@ -12,42 +12,16 @@
     "ended_interactions": [],
     "events": [
       {
-        "generation": 350,
+        "generation": 351,
         "kind": "observation",
         "subject": "world",
-        "text": "VIVARIUM advances 14 simulated days to year 12.79."
+        "text": "VIVARIUM advances 14 simulated days to year 12.83."
       }
     ],
-    "from_generation": 349,
+    "from_generation": 350,
     "lineages": [
       {
         "centroid_from": [
-          38.536,
-          12.143
-        ],
-        "centroid_to": [
-          38.536,
-          12.143
-        ],
-        "genetic_diversity_after": 0.08994,
-        "genetic_diversity_before": 0.08966,
-        "id": "sp-00003",
-        "infection_peak_after": 0,
-        "infection_peak_before": 0,
-        "movement": 0.0,
-        "name": "glass mote",
-        "population_after": 373.5,
-        "population_before": 369.37,
-        "population_delta": 4.13,
-        "population_percent": 1.12,
-        "range_after": 28,
-        "range_before": 28,
-        "range_delta": 0,
-        "role": "producer",
-        "status": "living"
-      },
-      {
-        "centroid_from": [
           18.606,
           8.667
         ],
@@ -55,17 +29,17 @@
           18.606,
           8.667
         ],
-        "genetic_diversity_after": 0.04534,
-        "genetic_diversity_before": 0.04535,
+        "genetic_diversity_after": 0.0454,
+        "genetic_diversity_before": 0.04534,
         "id": "sp-00001",
         "infection_peak_after": 0,
         "infection_peak_before": 0,
         "movement": 0.0,
         "name": "pale filament",
-        "population_after": 818.81,
-        "population_before": 819.14,
-        "population_delta": -0.33,
-        "population_percent": -0.04,
+        "population_after": 820.12,
+        "population_before": 818.81,
+        "population_delta": 1.31,
+        "population_percent": 0.16,
         "range_after": 33,
         "range_before": 33,
         "range_delta": 0,
@@ -81,19 +55,45 @@
           26.333,
           23.476
         ],
-        "genetic_diversity_after": 0.1063,
-        "genetic_diversity_before": 0.10602,
+        "genetic_diversity_after": 0.10663,
+        "genetic_diversity_before": 0.1063,
         "id": "sp-00002",
         "infection_peak_after": 0,
         "infection_peak_before": 0,
         "movement": 0.0,
         "name": "silt frond",
-        "population_after": 155.32,
-        "population_before": 155.35,
-        "population_delta": -0.03,
-        "population_percent": -0.02,
+        "population_after": 156.26,
+        "population_before": 155.32,
+        "population_delta": 0.94,
+        "population_percent": 0.61,
         "range_after": 21,
         "range_before": 21,
+        "range_delta": 0,
+        "role": "producer",
+        "status": "living"
+      },
+      {
+        "centroid_from": [
+          38.536,
+          12.143
+        ],
+        "centroid_to": [
+          38.536,
+          12.143
+        ],
+        "genetic_diversity_after": 0.08984,
+        "genetic_diversity_before": 0.08994,
+        "id": "sp-00003",
+        "infection_peak_after": 0,
+        "infection_peak_before": 0,
+        "movement": 0.0,
+        "name": "glass mote",
+        "population_after": 373.32,
+        "population_before": 373.5,
+        "population_delta": -0.18,
+        "population_percent": -0.05,
+        "range_after": 28,
+        "range_before": 28,
         "range_delta": 0,
         "role": "producer",
         "status": "living"
@@ -102,11 +102,11 @@
     "markers": [
       {
         "glyph": "\u2022",
-        "id": "ev-000350-00",
+        "id": "ev-000351-00",
         "kind": "observation",
         "position": null,
         "subject": "world",
-        "text": "VIVARIUM advances 14 simulated days to year 12.79."
+        "text": "VIVARIUM advances 14 simulated days to year 12.83."
       }
     ],
     "new_interactions": [],
@@ -126,15 +126,15 @@
       "occupied_after": 82,
       "occupied_before": 82,
       "occupied_delta": 0,
-      "population_after": 1347.63,
-      "population_before": 1343.86,
-      "population_delta": 3.78,
-      "population_percent": 0.28,
+      "population_after": 1349.7,
+      "population_before": 1347.63,
+      "population_delta": 2.06,
+      "population_percent": 0.15,
       "resolved_pathogens": 0,
       "resources_delta": 0.0,
       "temperature_delta": 0.0
     },
-    "to_generation": 350
+    "to_generation": 351
   },
   "environment": {
     "ancestral_refugia": [
@@ -4506,6 +4506,12 @@
       "kind": "observation",
       "subject": "world",
       "text": "VIVARIUM advances 14 simulated days to year 12.79."
+    },
+    {
+      "generation": 351,
+      "kind": "observation",
+      "subject": "world",
+      "text": "VIVARIUM advances 14 simulated days to year 12.83."
     }
   ],
   "history": [
@@ -10654,6 +10660,24 @@
       "sim_day": 4606.0,
       "sim_year": 12.7944,
       "temperature": 0.54299
+    },
+    {
+      "era": "Origin Era",
+      "events": [
+        "observation"
+      ],
+      "extinct": 0,
+      "generation": 351,
+      "living": 3,
+      "moisture": 0.55247,
+      "occupied_cells": 82,
+      "pathogens": 6,
+      "population": 1349.7,
+      "predation_links": 0,
+      "resources": 0.32236,
+      "sim_day": 4620.0,
+      "sim_year": 12.8333,
+      "temperature": 0.54299
     }
   ],
   "interactions": [],
@@ -10768,7 +10792,7 @@
       "born_generation": 0,
       "extinct_generation": null,
       "extinction_cause": null,
-      "genetic_diversity": 0.0453,
+      "genetic_diversity": 0.0454,
       "id": "sp-00001",
       "morphology": {
         "appendages": 3,
@@ -10782,9 +10806,9 @@
       "native_lineage": "PHYLUM/origin",
       "offspring_lineages": [],
       "parent_id": null,
-      "peak_population": 819.95,
+      "peak_population": 820.12,
       "peak_range": 37,
-      "population": 818.81,
+      "population": 820.12,
       "regions_seen": [
         "central reach",
         "northern reach",
@@ -10800,7 +10824,7 @@
       "born_generation": 0,
       "extinct_generation": null,
       "extinction_cause": null,
-      "genetic_diversity": 0.1063,
+      "genetic_diversity": 0.1066,
       "id": "sp-00002",
       "morphology": {
         "appendages": 3,
@@ -10816,7 +10840,7 @@
       "parent_id": null,
       "peak_population": 382.3,
       "peak_range": 24,
-      "population": 155.32,
+      "population": 156.26,
       "regions_seen": [
         "central reach",
         "southern reach"
@@ -10830,7 +10854,7 @@
       "born_generation": 0,
       "extinct_generation": null,
       "extinction_cause": null,
-      "genetic_diversity": 0.0899,
+      "genetic_diversity": 0.0898,
       "id": "sp-00003",
       "morphology": {
         "appendages": 3,
@@ -10846,7 +10870,7 @@
       "parent_id": null,
       "peak_population": 373.5,
       "peak_range": 29,
-      "population": 373.5,
+      "population": 373.32,
       "regions_seen": [
         "eastern reach"
       ],
@@ -10858,27 +10882,27 @@
     "clocks": {
       "climate": 0.91,
       "ecology": 330,
-      "ecology_days": 4606.0,
+      "ecology_days": 4620.0,
       "evolution": 4.68,
-      "evolution_years": 12.79444,
+      "evolution_years": 12.83333,
       "geology": 0.156
     },
     "cortex": {
       "canonical_llm_enabled": false,
-      "compressed_cohorts": 79,
+      "compressed_cohorts": 80,
       "last_actions": {
-        "avoid": 20,
-        "explore": 61,
-        "forage": 24,
-        "mate": 61,
-        "rest": 14,
-        "socialize": 52
+        "avoid": 18,
+        "explore": 66,
+        "forage": 20,
+        "mate": 59,
+        "rest": 20,
+        "socialize": 50
       },
-      "lifetime_decisions": 83263,
-      "mean_controller_gate": 0.13315,
+      "lifetime_decisions": 84454,
+      "mean_controller_gate": 0.13319,
       "mean_hidden_neurons": 4.0,
-      "mean_plasticity": 0.22023,
-      "resolved_brains": 232,
+      "mean_plasticity": 0.22032,
+      "resolved_brains": 233,
       "schema": 1
     },
     "created_utc": "2026-08-08T22:26:00+00:00",
@@ -10890,8 +10914,8 @@
       "started_generation": 0
     },
     "extinct_species": 0,
-    "generation": 350,
-    "last_evolved_utc": "2026-11-14T13:32:52+00:00",
+    "generation": 351,
+    "last_evolved_utc": "2026-11-14T22:19:42+00:00",
     "living_species": 3,
     "name": "PHYLUM",
     "next_pathogen_id": 7,
@@ -10917,7 +10941,7 @@
     "statistics": {
       "active_pathogens": 6,
       "competition_links": 0,
-      "largest_population_ever": 819.95,
+      "largest_population_ever": 820.12,
       "largest_range_ever": 37,
       "most_descendants": "pale filament",
       "oldest_living_lineage": "pale filament",
@@ -10941,30 +10965,30 @@
         "ruins": 0
       }
     },
-    "total_population": 1347.63,
+    "total_population": 1349.7,
     "vivarium": {
       "checkpoint_days": 14,
-      "cohorts": 79,
-      "explicit_organisms": 232,
+      "cohorts": 80,
+      "explicit_organisms": 233,
       "last_checkpoint": {
-        "births": 24.357,
+        "births": 20.78,
         "death_causes": {
-          "age": 20.581
+          "age": 18.715
         },
-        "deaths": 20.581,
+        "deaths": 18.715,
         "extreme_weather_days": 0,
-        "observation_index": 350,
+        "observation_index": 351,
         "observed_predation": 0,
-        "population_after": 1347.632,
-        "population_before": 1343.857,
-        "sim_day_end": 4606.0,
-        "sim_day_start": 4592.0,
+        "population_after": 1349.697,
+        "population_before": 1347.632,
+        "sim_day_end": 4620.0,
+        "sim_day_start": 4606.0,
         "simulated_days": 14
       },
-      "observation_index": 350,
+      "observation_index": 351,
       "schema": 1,
-      "sim_day": 4606.0,
-      "sim_year": 12.7944
+      "sim_day": 4620.0,
+      "sim_year": 12.8333
     }
   }
 }
