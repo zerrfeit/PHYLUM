@@ -2,68 +2,68 @@
   "ended_interactions": [],
   "events": [
     {
-      "generation": 362,
+      "generation": 363,
       "kind": "observation",
       "subject": "world",
-      "text": "VIVARIUM advances 14 simulated days to year 13.26."
+      "text": "VIVARIUM advances 14 simulated days to year 13.30."
     }
   ],
-  "from_generation": 361,
+  "from_generation": 362,
   "lineages": [
     {
       "centroid_from": [
-        18.606,
-        8.667
+        18.559,
+        8.618
       ],
       "centroid_to": [
         18.559,
         8.618
       ],
-      "genetic_diversity_after": 0.04604,
-      "genetic_diversity_before": 0.04592,
+      "genetic_diversity_after": 0.04611,
+      "genetic_diversity_before": 0.04604,
       "id": "sp-00001",
       "infection_peak_after": 0,
       "infection_peak_before": 0,
-      "movement": 0.068,
-      "name": "pale filament",
-      "population_after": 837.7,
-      "population_before": 834.74,
-      "population_delta": 2.96,
-      "population_percent": 0.35,
-      "range_after": 34,
-      "range_before": 33,
-      "range_delta": 1,
-      "role": "producer",
-      "status": "living"
-    },
-    {
-      "centroid_from": [
-        38.536,
-        12.143
-      ],
-      "centroid_to": [
-        38.536,
-        12.143
-      ],
-      "genetic_diversity_after": 0.08966,
-      "genetic_diversity_before": 0.08969,
-      "id": "sp-00003",
-      "infection_peak_after": 0,
-      "infection_peak_before": 0,
       "movement": 0.0,
-      "name": "glass mote",
-      "population_after": 365.06,
-      "population_before": 365.44,
-      "population_delta": -0.38,
-      "population_percent": -0.1,
-      "range_after": 28,
-      "range_before": 28,
+      "name": "pale filament",
+      "population_after": 839.32,
+      "population_before": 837.7,
+      "population_delta": 1.62,
+      "population_percent": 0.19,
+      "range_after": 34,
+      "range_before": 34,
       "range_delta": 0,
       "role": "producer",
       "status": "living"
     },
     {
       "centroid_from": [
+        38.536,
+        12.143
+      ],
+      "centroid_to": [
+        38.379,
+        12.103
+      ],
+      "genetic_diversity_after": 0.08995,
+      "genetic_diversity_before": 0.08966,
+      "id": "sp-00003",
+      "infection_peak_after": 0,
+      "infection_peak_before": 0,
+      "movement": 0.162,
+      "name": "glass mote",
+      "population_after": 366.51,
+      "population_before": 365.06,
+      "population_delta": 1.45,
+      "population_percent": 0.4,
+      "range_after": 29,
+      "range_before": 28,
+      "range_delta": 1,
+      "role": "producer",
+      "status": "living"
+    },
+    {
+      "centroid_from": [
         26.333,
         23.476
       ],
@@ -71,17 +71,17 @@
         26.333,
         23.476
       ],
-      "genetic_diversity_after": 0.10964,
-      "genetic_diversity_before": 0.10934,
+      "genetic_diversity_after": 0.10996,
+      "genetic_diversity_before": 0.10964,
       "id": "sp-00002",
       "infection_peak_after": 0,
       "infection_peak_before": 0,
       "movement": 0.0,
       "name": "silt frond",
-      "population_after": 158.43,
-      "population_before": 158.52,
-      "population_delta": -0.09,
-      "population_percent": -0.06,
+      "population_after": 159.32,
+      "population_before": 158.43,
+      "population_delta": 0.89,
+      "population_percent": 0.56,
       "range_after": 21,
       "range_before": 21,
       "range_delta": 0,
@@ -92,11 +92,11 @@
   "markers": [
     {
       "glyph": "\u2022",
-      "id": "ev-000362-00",
+      "id": "ev-000363-00",
       "kind": "observation",
       "position": null,
       "subject": "world",
-      "text": "VIVARIUM advances 14 simulated days to year 13.26."
+      "text": "VIVARIUM advances 14 simulated days to year 13.30."
     }
   ],
   "new_interactions": [],
@@ -113,16 +113,16 @@
     "new_competition_links": 0,
     "new_pathogens": 0,
     "new_predation_links": 0,
-    "occupied_after": 83,
-    "occupied_before": 82,
+    "occupied_after": 84,
+    "occupied_before": 83,
     "occupied_delta": 1,
-    "population_after": 1361.19,
-    "population_before": 1358.7,
-    "population_delta": 2.49,
-    "population_percent": 0.18,
+    "population_after": 1365.15,
+    "population_before": 1361.19,
+    "population_delta": 3.96,
+    "population_percent": 0.29,
     "resolved_pathogens": 0,
     "resources_delta": 0.0,
     "temperature_delta": 0.0
   },
-  "to_generation": 362
+  "to_generation": 363
 }
